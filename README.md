@@ -1,4 +1,4 @@
-﻿# flutter_assignment
+﻿# Contact List App
 This repository contains the code for the contact_list app created in flutter using Firebase.
 
 The app consists of an authentication framework (Google) using firebase. The contacts for each user are also stored in firebase.
