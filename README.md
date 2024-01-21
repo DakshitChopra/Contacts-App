@@ -10,4 +10,4 @@ Features:
 - Editing and deleting a contact in place should be done in place without the need to re-render the complete list.
 
 Upcoming Feature: 
-- Authentication using Facebook to be added in next update.
+- Authentication using Facebook to be added in next update, and dialer feature.
